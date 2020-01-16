@@ -14,9 +14,9 @@ Instructions for adding repos from this source:
     <li>Go back to the setttings page, and then "Add-ons"</li>
     <li>Install from zip file.</li>
     <li>Select "repository.tjamieg".</li>
-    <li>For Jamie5Kodi, install <a href="repository.jamie5kodi-0.0.1.zip">repository.jamie5kodi-0.0.1.zip</a></li>
-    <li>Go back to Addons, but this time, select "Install from repository"</li>
-    <li>Select the repo and add-on you want to install</li>
+    <li>Then select <a href="repository.tjamieg-0.0.1.zip">"repository.tjamieg-0.0.1.zip"</a></li>
+    <li>Go back to the previous Addons menu, but this time, select "Install from repository"</li>
+    <li>Select "TJamieG Repository" and then the add-on you want to install</li>
   </ul>
 </p>
 
