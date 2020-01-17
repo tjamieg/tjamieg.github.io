@@ -1,0 +1,3 @@
+[submodule "plugin.program.jamie5kodi"]
+	path = plugin.program.jamie5kodi
+	url = https://github.com/tjamieg/plugin.program.jamie5kodi.git
