@@ -1,4 +1,4 @@
-# tjamieg's Add-ons
+# TJamieG'5 Add-ons
 ## Current Version: 1.0
 
 ## Repository addon
