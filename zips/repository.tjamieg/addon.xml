@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="tjamieg.github.io" name="TJamieG Repository" version="0.0.1" provider-name="tjamieg">
+<addon id="repository.tjamieg" name="TJamieG Repository" version="1.0" provider-name="tjamieg">
     <extension point="xbmc.addon.repository" name="TJamieG Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/tjamieg/tjamieg.github.io/master/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/tjamieg/tjamieg.github.io/master/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/tjamieg/tjamieg.github.io/master/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/tjamieg/repository.tjamieg/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/tjamieg/repository.tjamieg/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/tjamieg/repository.tjamieg/master/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
