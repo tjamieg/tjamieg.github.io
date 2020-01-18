@@ -1,6 +1,6 @@
 id="plugin.program.j5kwizard"
-version="1.0.3"
-zip="https://raw.githubusercontent.com/tjamieg/tjamieg.github.io/master/zips/plugin.program.j5kwizard/plugin.program.j5kwizard-1.0.3.zip"
+version="1.0.5"
+zip="https://raw.githubusercontent.com/tjamieg/tjamieg.github.io/master/zips/plugin.program.j5kwizard/plugin.program.j5kwizard-1.0.5.zip"
 
 name="Netflix & Chill"
 version="6.9"
