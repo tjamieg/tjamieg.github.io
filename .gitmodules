@@ -1,0 +1,3 @@
+[submodule "plugin.program.j5kwizard"]
+	path = plugin.program.j5kwizard
+	url = https://github.com/tjamieg/plugin.program.j5kwizard
