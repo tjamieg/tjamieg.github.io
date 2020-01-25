@@ -1,3 +1,6 @@
 [submodule "plugin.program.j5kwizard"]
 	path = plugin.program.j5kwizard
 	url = https://github.com/tjamieg/plugin.program.j5kwizard
+[submodule "plugin.video.themoviedb.helper"]
+	path = plugin.video.themoviedb.helper
+	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
