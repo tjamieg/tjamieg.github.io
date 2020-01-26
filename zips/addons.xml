@@ -85,7 +85,7 @@
 </addon>
 
 <addon id="plugin.video.themoviedb.helper"
-version="2.2.40"
+version="2.2.42"
 name="TheMovieDb Helper"
 provider-name="jurialmunkey">
 <requires>
