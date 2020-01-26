@@ -4,3 +4,6 @@
 [submodule "repository.castagnait"]
 	path = repository.castagnait
 	url = https://github.com/tjamieg/repository.castagnait.git
+[submodule "plugin.video.themoviedb.helper"]
+	path = plugin.video.themoviedb.helper
+	url = https://github.com/tjamieg/plugin.video.themoviedb.helper.git
