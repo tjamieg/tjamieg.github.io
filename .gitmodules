@@ -7,3 +7,6 @@
 [submodule "plugin.video.themoviedb.helper"]
 	path = plugin.video.themoviedb.helper
 	url = https://github.com/jurialmunkey/plugin.video.themoviedb.helper.git
+[submodule "skin.arctic.horizon"]
+	path = skin.arctic.horizon
+	url = https://github.com/jurialmunkey/skin.arctic.horizon.git
