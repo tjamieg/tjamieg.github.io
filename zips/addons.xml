@@ -122,7 +122,7 @@
 </addon>
 
 <addon id="plugin.video.themoviedb.helper"
-version="3.1.0"
+version="3.1.1"
 name="TheMovieDb Helper"
 provider-name="jurialmunkey">
 <requires>
