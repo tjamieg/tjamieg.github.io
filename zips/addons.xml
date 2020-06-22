@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.j5kwizard" name="Jamie[B]5[/B][COLOR limegreen]Kodi[/COLOR] Wizard" version="1.4.1" provider-name="tjamieg">
+<addon id="plugin.program.j5kwizard" name="Jamie[B]5[/B][COLOR limegreen]Kodi[/COLOR] Wizard" version="1.4.3" provider-name="tjamieg">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.requests" />
@@ -21,6 +21,10 @@
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://github.com/tjamieg/plugin.program.j5kwizard/</source>
         <news>
+1.4.3
+ - Fix missing artwork on items (thanks @xulek)
+1.4.2
+ - A few bug fixes
 1.4.1
  - Fix crash on fresh installs
 1.4.0
@@ -122,7 +126,7 @@
 </addon>
 
 <addon id="plugin.video.themoviedb.helper"
-version="3.1.1"
+version="3.1.3"
 name="TheMovieDb Helper"
 provider-name="jurialmunkey">
 <requires>
@@ -267,7 +271,7 @@ provider-name="jurialmunkey">
     </extension>
 </addon>
 
-<addon id="skin.arctic.horizon" name="Arctic Horizon" provider-name="jurialmunkey" version="0.2.89">
+<addon id="skin.arctic.horizon" name="Arctic Horizon" provider-name="jurialmunkey" version="0.2.92">
     <requires>
         <import addon="xbmc.gui" version="5.14.0" />
         <import addon="script.skinshortcuts" version="0.4.0" />
