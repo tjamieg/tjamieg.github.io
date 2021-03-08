@@ -1,6 +1,3 @@
 [submodule "plugin.program.j5kwizard"]
 	path = plugin.program.j5kwizard
 	url = https://github.com/tjamieg/plugin.program.j5kwizard.git
-[submodule "skin.arctic.horizon"]
-	path = skin.arctic.horizon
-	url = https://github.com/jurialmunkey/skin.arctic.horizon.git
